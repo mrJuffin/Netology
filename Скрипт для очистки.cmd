@@ -31,3 +31,6 @@
  "nbformat": 4,
  "nbformat_minor": 5
 }
+git reset --hard
+git clean -f -d
+pause>nul
